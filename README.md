@@ -1,12 +1,12 @@
 # ATIK_ON_FIRE
 Termux RANDOM Cloning Tools
 
-rm -rf ATIK_ON_FIRE-
+rm -rf atik_on_fire-
 
 git clone https://github.com/4a7t1k/ATIK_ON_FIRE
 
-cd ATIK_ON_FIRE-
+cd atik_on_fire-
 
-python 3 ATIK_ON_FIRE-.py
+python 3 atik_on_fire-.py
 
 Thanks for using the 

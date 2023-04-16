@@ -7,6 +7,6 @@ git clone https://github.com/4a7t1k/ATIK_ON_FIRE
 
 cd atik_on_fire-
 
-python 3 atik_on_fire-.py
+python3 atik_on_fire-.py
 
 Thanks for using the 
